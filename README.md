@@ -1,1 +1,1 @@
-# Book-Search-Engine
+A book searching app refactored to use Apollo and GraphQL.
